@@ -16,10 +16,10 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Advanced reboot options -->
-    <string name="advanced_reboot_title">Advanced reboot</string>
-    <string name="advanced_reboot_summary">When unlocked, include options in the power menu for rebooting into recovery, bootloader or performing a soft reboot</string>
+    <string name="advanced_reboot_title">Reinicio avanzado</string>
+    <string name="advanced_reboot_summary">Mostrar opciones, en el menú de apagado, para reiniciar en modos especiales</string>
 
     <!-- Launch Dev Tools -->
-    <string name="development_tools_title">Development tools</string>
+    <string name="development_tools_title">Herramientas de desarrollo</string>
 
 </resources>
